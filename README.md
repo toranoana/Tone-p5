@@ -1,4 +1,5 @@
-# Tone.js + p5.js Music Player
+# Tone-p5
+Tone.jsにより発生させる音をp5.jsにより可視化します。
 
 ## 実行環境
 - node.js v12.13.1
@@ -10,7 +11,7 @@ npm run dev
 ```
 
 ## ビルド
-以下コマンドで、`public/bundle.js`が作成される。
+以下コマンドで、`public/bundle.js`を作成
 ```
 npm run build
 ```
